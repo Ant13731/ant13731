@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I am a software developer passionate about programming languages, compilers, and the like.
+I am a software engineer passionate about beautiful code and amazing developer experiences. Currently, I'm exploring programming language design + compilation, mobile development, and physics simulations.
 
-## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Ant13731&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Ant13731's GitHub Stats" />
+### Projects I'm working on
+- [conjure](https://github.com/Ant13731/conjure): Control your computer as if it were a hologram! A remote control for your computer that uses your hands and gestures as a remote.
+- [simile](https://github.com/Ant13731/simile): A high level formal-specification-based programming language with rewrite-based optimizations founded in set theory, targeting LLVM.
 
-<!--
-Check out a few of my recent projects:
-
--->
+### Past Projects
+- [nodify](https://github.com/Ant13731/nodify-dev): Data-flow visualization tool for any Python or Typescript repository. Install as a VSCode extension.
+- [2-D Charged Particle Simulation](https://github.com/Ant13731/2D-Charged-Particle-Simulation)
+- [Chess Prediction CNN-RNN](https://github.com/Ant13731/Chess-Prediction-Model)
